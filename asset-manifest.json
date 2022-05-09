@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/regchiu/react-tic-tac-toe-tutorial/static/css/main.6886d877.css",
+    "main.js": "/regchiu/react-tic-tac-toe-tutorial/static/js/main.ab96c8ef.js",
+    "index.html": "/regchiu/react-tic-tac-toe-tutorial/index.html",
+    "main.6886d877.css.map": "/regchiu/react-tic-tac-toe-tutorial/static/css/main.6886d877.css.map",
+    "main.ab96c8ef.js.map": "/regchiu/react-tic-tac-toe-tutorial/static/js/main.ab96c8ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6886d877.css",
+    "static/js/main.ab96c8ef.js"
+  ]
+}
